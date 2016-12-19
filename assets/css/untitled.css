@@ -113,7 +113,7 @@ div#jumbo {
 
 @media (max-width:991px) {
   div#jumbo1.jumbotron {
-    color:#313437;
+    color:rgba(49,52,55,0.16);
     overflow:hidden;
     border-bottom:1px solid #010101;
     border-top:2px solid #010101;
